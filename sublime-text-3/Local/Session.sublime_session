@@ -1,0 +1,1096 @@
+{
+	"folder_history":
+	[
+		"/home/emon/Coding/cs240",
+		"/home/emon/Coding/cs240/2"
+	],
+	"last_version": 3143,
+	"last_window_id": 8,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 2082.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 588.0,
+				"last_filter": "PC",
+				"selected_items":
+				[
+					[
+						"PC",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"pc",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 667.0
+			},
+			"console":
+			{
+				"height": 204.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/emon/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+				"/home/emon/.config/sublime-text-3/Packages/User/SublimeREPL.sublime-settings",
+				"/home/emon/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/home/emon/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+				"/home/emon/.config/sublime-text-3/Packages/AutoPEP8/Default.sublime-keymap",
+				"/home/emon/.config/sublime-text-3/Packages/AutoPEP8/AutoPep8.sublime-settings",
+				"/home/emon/Coding/cs240/1/1.py",
+				"/home/emon/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+				"/home/emon/Coding/cs240/2/2.py",
+				"/home/emon/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/emon/Coding/try.cpp"
+			],
+			"find":
+			{
+				"height": 63.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 40.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.autopep8":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 74.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 372.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"read_input"
+					]
+				],
+				"width": 588.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 225.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1871.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"init",
+						"init_state\tstatement"
+					],
+					[
+						"random",
+						"random_drop\tfunction"
+					],
+					[
+						"best",
+						"best_k\tstatement"
+					],
+					[
+						"old",
+						"old_state\tstatement"
+					],
+					[
+						"stat",
+						"state_pos\tstatement"
+					],
+					[
+						"sta",
+						"state_pos\tstatement"
+					],
+					[
+						"ma",
+						"make_graph\tfunction"
+					],
+					[
+						"pos",
+						"state_pos"
+					],
+					[
+						"po",
+						"pos_power\tstatement"
+					],
+					[
+						"state",
+						"state_neg\tstatement"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/emon/Course/cs240/3/3.py",
+					"settings":
+					{
+						"buffer_size": 1657,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/emon/Course/cs240/2/2.py",
+					"settings":
+					{
+						"buffer_size": 1879,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/emon/Course/cs240/5/4.py",
+					"settings":
+					{
+						"buffer_size": 2360,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "#!/usr/bin/env python\n# -*- coding: utf-8 -*-\nimport numpy as np\nimport time\nimport random\n\n\ndef read_input():\n    # def one_edge():\n    #     line = raw_input()\n    #     u, v, w = line.split()\n    #     return int(u), int(v), float(w)\n    # n = int(raw_input())\n    # edges = [one_edge() for _ in range(4 * n**2 - 2*n)]\n    # return n, edges\n    def one_edge():\n        line = f.readline()\n        u, v, w = line.split()\n        return int(u), int(v), float(w)\n    f = open('6', 'r')\n    m = f.readline()\n    n = int(m)\n    edges = [one_edge() for _ in range(4 * n**2 - 2 * n)]\n    f.close()\n    return n, edges\n\n\ndef power_by_mtt(state, edges):\n    n = len(state)\n    graph = np.zeros((n, n), dtype=np.float64)\n    for u, v, w in edges:\n        if (u == 0 or u in state) and v in state:\n            graph[abs(u), abs(v)] = w\n    g_sum = np.sum(graph, axis=0)\n    a = np.diagflat(g_sum)\n    mat_l = (-1) * graph + a\n\n    det = np.linalg.det(mat_l[1:, 1:])\n    return det\n\n\ndef getup(state, edges, n):\n    old_power = power_by_mtt(state, edges)\n    i = 1\n    while i < n + 1:\n        state[i] = state[i] * (-1)\n        new_power = power_by_mtt(state, edges)\n        if new_power > old_power:\n            return state, new_power, old_power\n        else:\n            state[i] = state[i] * (-1)\n            i += 1\n    return state, old_power, old_power\n\n\n# def make_graph(old_state, edges, k):\n#     state_pos = old_state + [k]\n#     pos_power = power_by_mtt(state_pos, edges)\n#     state_neg = old_state + [-k]\n#     neg_power = power_by_mtt(state_neg, edges)\n#     if pos_power >= neg_power:\n#         best_state = state_pos\n#     else:\n#         best_state = state_neg\n#     return best_state\n\n\ndef find_best_k(old_state, edges, k):\n    best_w = 0\n    for u, v, w in edges:\n        if (u in old_state) and (v == k or v == -k):\n            if w > best_w:\n                best_w = w\n                best_k = v\n        elif (u == k or u == -k) and (v in old_state):\n            if w > best_w:\n                best_w = w\n                best_k = u\n    return best_kD\n\n\ndef build_state(old_state, edges, k):\n    node = find_best_k(old_state, edges, k)\n    new_state = old_state + [node]\n    return new_state\n\n\ndef random_drop(old_state, n):\n    k = 0.1\n    for i in range(1, n + 1):\n        tmp = random.random()\n        if tmp < k:\n            old_state[i] = old_state[i] * (-1)\n    return old_state\n\n\ndef out():\n    n, edges = read_input()\n    old_state = [0]\n    for i in range(1, n + 1):\n        old_state = build_state(old_state, edges, i)\n\n    old_power = 1.0\n    new_power = 2.0\n    while new_power > old_power:\n        old_state, new_power, old_power = getup(old_state, edges, n)\n\n    best_power = new_power\n    while new_power <= best_power:\n        init_state = random_drop(old_state, n)\n        old_power = 1.0\n        new_power = 2.0\n        while new_power > old_power:\n            init_state, new_power, old_power = getup(init_state, edges, n)\n\n    init_state.pop(0)\n    assert init_state is not None\n\n    fout = file('./output/6', 'w+')\n    fout.write(' '.join('%+d' % i for i in init_state))\n    # fout.write(\"\\n\")\n    # fout.write('%+E' % best_power)\n    fout.close()\n\n\nif __name__ == '__main__':\n    time_start = time.time()\n    out()\n    time_end = time.time()\n    print(time_end - time_start),\n    print(\"s\")\n",
+					"file": "/home/emon/Course/cs240/6/6.py",
+					"file_size": 3324,
+					"file_write_time": 131594367053795427,
+					"settings":
+					{
+						"buffer_size": 3325,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/emon/桌面/无标题文档",
+					"settings":
+					{
+						"buffer_size": 76,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/emon/Coding/git/hello-world/readme.txt",
+					"settings":
+					{
+						"buffer_size": 158,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/emon/Course/cs240/6/6_2.py",
+					"settings":
+					{
+						"buffer_size": 2366,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/emon/Course/cs240/7/7.py",
+					"settings":
+					{
+						"buffer_size": 2364,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/emon/Course/cs240/8/8.py",
+					"settings":
+					{
+						"buffer_size": 2364,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/emon/ShanghaitechAutoLogin.py",
+					"settings":
+					{
+						"buffer_size": 5720,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/emon/Course/cs240/1/1.py",
+					"settings":
+					{
+						"buffer_size": 1919,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/emon/Coding/cs240/1/1_2.py",
+					"settings":
+					{
+						"buffer_size": 2471,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nSublimeLinter\n-------------\n\n  SublimeLinter 3.10.8\n  ---------------------\n  \n  Added a \"use_current_shell_path\" preference that basically does what is says :)\n  \n  ---------------------\n  \n  SublimeLinter 4 now in beta!\n  \n  Read about it here:\n  https://github.com/SublimeLinter/SublimeLinter3/blob/next/messages/4.0.0-rc.1.txt\n  \n  Participate by editing your Package Control preferences and adding\n  SublimeLinter to the \"install_prereleases\" key:\n  \n  \"install_prereleases\":\n  [\n    \"SublimeLinter\"\n  ]\n  \n  If you want to use SublimeLinter-flake8 during the beta, you need to add it to\n  the \"install_prereleases\" as well.\n  Most other linter plugins should be compatible.\n\n\nSublimeLinter-cppcheck\n----------------------\n\n  SublimeLinter-cppcheck\n  -------------------------------\n  Inline settings will be no longer be supported in SublimeLinter 4.\n  Please use cppcheck configuration files etc. instead.\n  \n  https://github.com/SublimeLinter/SublimeLinter3/blob/next/messages/4.0.0-rc.1.txt\n",
+					"settings":
+					{
+						"buffer_size": 1051,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "/home/emon/Coding/cs240/2/2_1.py",
+					"settings":
+					{
+						"buffer_size": 2360,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 588.0,
+				"last_filter": "PC",
+				"selected_items":
+				[
+					[
+						"PC",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"pc",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 667.0
+			},
+			"console":
+			{
+				"height": 204.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/emon/Coding/git/hello-world/LICENSE",
+				"/home/emon/Coding/git/hello-world/readme.txt",
+				"/home/emon/Coding/kaggle/iceberg/sub_fcn.csv",
+				"/home/emon/桌面/无标题文档",
+				"/home/emon/kent/temp_final",
+				"/home/emon/kent/calabash.py",
+				"/home/emon/kent/10",
+				"/home/emon/Coding/kaggle/iceberg/sample_sub/sample_submission.csv",
+				"/home/emon/.cache/.fr-Kh6nxp/data/processed/sample_submission.csv",
+				"/home/emon/Coding/kaggle/iceberg/statoil-iceberg-submissions/sample_submission.csv",
+				"/home/emon/Course/cs240/10/10.py",
+				"/home/emon/Course/cs240/10/10",
+				"/home/emon/Course/cs240/9/output/9",
+				"/home/emon/Course/cs240/9/9.py",
+				"/home/emon/Course/cs240/9/9",
+				"/usr/lib/python2.7/random.py",
+				"/home/emon/Course/cs240/7/output/7",
+				"/home/emon/Course/cs240/9/8.py",
+				"/home/emon/Course/cs240/6/6_1,py",
+				"/home/emon/Course/cs240/6/output/6_1",
+				"/home/emon/Course/cs240/6/output/6",
+				"/home/emon/Course/cs240/6/6_1.py",
+				"/home/emon/Coding/cs240/3/3_3.py",
+				"/home/emon/Course/cs240/3/3_1.py",
+				"/home/emon/Course/cs240/6/6.py",
+				"/home/emon/Course/cs240/5/5",
+				"/home/emon/Course/cs240/6/6",
+				"/home/emon/Course/cs240/5/4.py",
+				"/home/emon/Course/cs240/4/4.py",
+				"/home/emon/Course/cs240/4/output/4",
+				"/home/emon/Course/cs240/4/4_1.py",
+				"/home/emon/Coding/cs240/1/1_1.py",
+				"/home/emon/Coding/cs240/1/1_3.py",
+				"/home/emon/Coding/cs240/1/try.py",
+				"/home/emon/Coding/cs240/1/output/1_3",
+				"/home/emon/Coding/cs240/1/output/1_2",
+				"/home/emon/Coding/cs240/1/output/1_1",
+				"/home/emon/Coding/cs240/1/output/1",
+				"/home/emon/Coding/cs240/2/2_3.py",
+				"/home/emon/Coding/cs240/1/1.py",
+				"/home/emon/Coding/cs240/3/output/3_3",
+				"/home/emon/Coding/cs240/3/output/3",
+				"/home/emon/Coding/cs240/2/output/2_1",
+				"/home/emon/Coding/cs240/2/output/2_3",
+				"/home/emon/Coding/cs240/3/3_3,py",
+				"/home/emon/Coding/cs240/2/output/2",
+				"/home/emon/Coding/cs240/2/2.py",
+				"/home/emon/Course/cs240/4/4",
+				"/home/emon/Coding/cs240/1/1",
+				"/home/emon/Course/cs240/4/output/4_1",
+				"/home/emon/Course/cs240/2/2.py",
+				"/home/emon/Course/cs240/1/1.py",
+				"/home/emon/Coding/cs240/2/2",
+				"/home/emon/Coding/cs240/3/3.py",
+				"/home/emon/Course/cs240/1/output/1",
+				"/home/emon/Course/cs240/1/1",
+				"/home/emon/Course/cs240/1/1_1.py",
+				"/home/emon/Course/cs240/4/43.py",
+				"/home/emon/下载/WifiLoginer-master/Python3/ShanghaitechAutoLogin.py",
+				"/home/emon/ShanghaitechAutoLogin.py",
+				"/home/emon/Course/cs240/3/1.py",
+				"/home/emon/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+				"/home/emon/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/home/emon/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/emon/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/emon/.config/sublime-text-3/Packages/AutoPEP8/Default.sublime-keymap",
+				"/home/emon/.config/sublime-text-3/Packages/AutoPEP8/AutoPep8.sublime-settings",
+				"/home/emon/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+				"/home/emon/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/emon/Coding/try.cpp"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					".",
+					"sync_result"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 5,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/emon/Course/cs240/3/3.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1657,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1657,
+										0
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/emon/Course/cs240/2/2.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1879,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/emon/Course/cs240/5/4.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2360,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2143,
+										2143
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 160.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/emon/Course/cs240/6/6.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3325,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2063,
+										2063
+									]
+								],
+								"settings":
+								{
+									"auto_complete_triggers":
+									[
+										{
+											"characters": ".",
+											"selector": "source.python - string - comment - constant.numeric"
+										},
+										{
+											"characters": ".",
+											"selector": "source.python - string - constant.numeric"
+										}
+									],
+									"complete_parameters": false,
+									"is_init_dirty_state": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 795.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/emon/桌面/无标题文档",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 76,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										45,
+										45
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/emon/Coding/git/hello-world/readme.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 158,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										158,
+										158
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/emon/Course/cs240/6/6_2.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2366,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/emon/Course/cs240/7/7.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2364,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2202,
+										2202
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/emon/Course/cs240/8/8.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2364,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2079,
+										2079
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/emon/ShanghaitechAutoLogin.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5720,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1026.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/emon/Course/cs240/1/1.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1919,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1919,
+										0
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/home/emon/Coding/cs240/1/1_2.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2471,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										329,
+										329
+									]
+								],
+								"settings":
+								{
+									"auto_complete_triggers":
+									[
+										{
+											"characters": ".",
+											"selector": "source.python - string - comment - constant.numeric"
+										},
+										{
+											"characters": ".",
+											"selector": "source.python - string - constant.numeric"
+										}
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1051,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										24,
+										24
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"is_init_dirty_state": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/home/emon/Coding/cs240/2/2_1.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2360,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										21,
+										21
+									]
+								],
+								"settings":
+								{
+									"auto_complete_triggers":
+									[
+										{
+											"characters": ".",
+											"selector": "source.python - string - comment - constant.numeric"
+										},
+										{
+											"characters": ".",
+											"selector": "source.python - string - constant.numeric"
+										}
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.806796116505,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.autopep8":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,309,40,2180,2122,3840,2160",
+			"project": "",
+			"replace":
+			{
+				"height": 63.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 372.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"read_input"
+					]
+				],
+				"width": 588.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 225.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 7,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

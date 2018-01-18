@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"AutoPEP8",
+		"ConvertToUTF8",
+		"Package Control",
+		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-pyflakes",
+		"SublimeREPL"
+	]
+}
